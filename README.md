@@ -18,8 +18,8 @@ Le marché de l’emploi au Sénégal évolue rapidement. Ce projet vise à iden
 
 ## 📂 Structure du projet
 data:
-jobs.csv # données brutes scrappées
-enriched_jobs_cleaned.csv # données nettoyées et enrichies
+jobs.csv (données brutes scrappées)
+enriched_jobs_cleaned.csv (données nettoyées et enrichies)
 
 scraping:
 scraping.ipynb
