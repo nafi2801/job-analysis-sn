@@ -80,16 +80,16 @@ job-analysis.pbix
 - Insight : certaines entreprises publient en lot → impact sur les tendances journalières.
 
 *7. Interactions secteur / niveau / type de contrat*
-Senior en CDD : Finance et ONG → missions spécialisées temporaires
-Junior : Tech et Recrutement/Intérim → insertion rapide
-Mid : moins dominant → polarisation jeunes entrants vs expérimentés
+- Senior en CDD : Finance et ONG → missions spécialisées temporaires
+- Junior : Tech et Recrutement/Intérim → insertion rapide
+- Mid : moins dominant → polarisation jeunes entrants vs expérimentés
 
 **Conclusion & Recommandations**
-Marché dynamique mais concentré
-Contrats majoritairement temporaires → flexibilité pour employeurs mais instabilité pour les candidats
-Profils experimentés dominent, les stages se font rares → manque d'opportunités pour étudiants
-Dashboard interactif : permet une exploration facile et actionnable pour candidats et recruteurs
-Perspectives : étendre la collecte, ajouter variables comme salaire, localisation précise, compétences → insights plus stratégiques
+- Marché dynamique mais concentré
+- Contrats majoritairement temporaires → flexibilité pour employeurs mais instabilité pour les candidats
+- Profils experimentés dominent, les stages se font rares → manque d'opportunités pour étudiants
+- Dashboard interactif : permet une exploration facile et actionnable pour candidats et recruteurs
+- Perspectives : étendre la collecte, ajouter variables comme salaire, localisation précise, compétences → insights plus stratégiques
 
 
 ---
