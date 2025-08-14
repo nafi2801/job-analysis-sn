@@ -17,25 +17,22 @@ Le marché de l’emploi au Sénégal évolue rapidement. Ce projet vise à iden
 ---
 
 ## 📂 Structure du projet
-job_analysis/
-│
-├── data/
-│ ├── jobs.csv # données brutes scrappées
-│ └── enriched_jobs_cleaned.csv # données nettoyées et enrichies
-│
-├── scraping/
-│ └── scraping.ipynb
-│
-├── visuals/
-│ ├── dashboard_overview.png
-│ ├── wordcloud_title.png
-│ ├── wordcloud_description.png
-│ └── 3D_scatter.png
-│
-├── dashboard/
-│ └── job-analysis.pbix
-│
-└── README.md
+data:
+jobs.csv # données brutes scrappées
+enriched_jobs_cleaned.csv # données nettoyées et enrichies
+
+scraping:
+scraping.ipynb
+
+visuals:
+dashboard_overview.png
+wordcloud_title.png
+wordcloud_description.png
+3D_scatter.png
+
+dashboard:
+job-analysis.pbix
+
 ---
 
 ## 🔍 Méthodologie
