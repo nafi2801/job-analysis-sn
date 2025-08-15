@@ -91,6 +91,10 @@ job-analysis.pbix
 - Dashboard interactif : permet une exploration facile et actionnable pour candidats et recruteurs
 - Perspectives : étendre la collecte, ajouter variables comme salaire, localisation précise, compétences → insights plus stratégiques
 
+**Aperçu du dashboard**
+<img width="1412" height="795" alt="dashboard_overview" src="https://github.com/user-attachments/assets/45edca0a-e1ed-400e-97f8-6e7ca9393d14" />
+
+
 
 ---
 
