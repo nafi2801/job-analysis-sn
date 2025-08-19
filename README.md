@@ -1,6 +1,6 @@
 # job-analysis-sn
 # Analyse du marché de l’emploi au Sénégal (EmploiDakar – Avril/Mai 2025)
-# !!!Lien vers le rapport complet : https://docs.google.com/document/d/11jRHEgQ736QZJ13Zd9S2jqn4ViaIWmKD/edit?usp=drive_link&ouid=106906644155330867530&rtpof=true&sd=true
+!!!Lien vers le rapport complet : https://docs.google.com/document/d/11jRHEgQ736QZJ13Zd9S2jqn4ViaIWmKD/edit?usp=drive_link&ouid=106906644155330867530&rtpof=true&sd=true
 
 ## 📌 Description
 Le marché de l’emploi au Sénégal évolue rapidement. Ce projet vise à identifier les secteurs porteurs, les types de contrats et les profils recherchés à partir d’un scraping de 259 annonces publiées sur EmploiDakar.com.
